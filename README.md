@@ -39,4 +39,4 @@ Repository for a 1.19.3+ Minecraft mod centered around improving the game's char
 - What is this mod compatible with?
 > Currently there is no official list of what will or will not work, but generally most cosmetic vanilla-friendly mods like Essential, 3D Skin Layers, and armor mods should work perfectly fine. Mods that change the player model to add additional animations like Better Combat or Emotecraft will not work, as they have different implementations for their animations that either overwrite or get overwritten by this mod. Content heavy mods that add additional animations for items and abilities are very likely to be visually absent, but this shouldn't inherently break anything.
 
-If you feel this FAQ is missing anything or you have any additional questions, please let me know! You can reach me at Trainguy#9512 on discord
+If you feel this FAQ is missing anything or you have any additional questions, please let me know! You can reach me at Trainguy#9512 on discord 
